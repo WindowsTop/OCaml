@@ -1,0 +1,1 @@
+print_string (String.make 100 'a');;
